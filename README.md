@@ -11,3 +11,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/01/26: [One Edit Distance](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3612/)
 - 2021/01/27: [Path With Minimum Effort](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3617/)
 - 2021/01/28: [Concatenation of Consecutive Binary Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3618/)
+- 2021/01/29: [Smallest String With A Given Numeric Value](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3619/)
