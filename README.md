@@ -13,3 +13,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/01/28: [Concatenation of Consecutive Binary Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3618/)
 - 2021/01/29: [Smallest String With A Given Numeric Value](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3619/)
 - 2021/01/30: [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3621/)
+- 2021/01/31: [Minimize Deviation in Array](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3622/)
+- 2021/01/31: [Merge k Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/)
+- 2021/01/31: [Next Permutation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3623/)
