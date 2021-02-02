@@ -16,3 +16,7 @@ https://leetcode.com/beijaflor-jp/
 - 2021/01/31: [Minimize Deviation in Array](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3622/)
 - 2021/01/31: [Merge k Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/)
 - 2021/01/31: [Next Permutation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3623/)
+- 2021/02/02: [Number of 1 Bits](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3625/)
+
+
+
