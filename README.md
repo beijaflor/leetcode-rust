@@ -20,3 +20,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/03: [Trim a Binary Search Tree](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3626/)
 - 2021/02/04: [Linked List Cycle](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3627/)
 - 2021/02/05: [Longest Harmonious Subsequence](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3628/)
+- 2021/02/05: [Simplify Path](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3629/)
