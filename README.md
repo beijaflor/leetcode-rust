@@ -22,3 +22,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/05: [Longest Harmonious Subsequence](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3628/)
 - 2021/02/05: [Simplify Path](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3629/)
 - 2021/02/06: [Squirrel Simulation](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3624/)
+- 2021/02/07: [Binary Tree Right Side View](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3630/)
+- 2021/02/08: [Shortest Distance to a Character](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3631/)
