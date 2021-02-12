@@ -28,3 +28,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/09: [Convert BST to Greater Tree](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3634/)
 - 2021/02/11: [Copy List with Random Pointer](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3635/)
 - 2021/02/12: [Valid Anagram](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3636/)
+- 2021/02/12: [Number of Steps to Reduce a Number to Zero](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3637/)
