@@ -32,3 +32,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/13: [Number of Distinct Islands](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3632/)
 - 2021/02/14: [Shortest Path in Binary Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/)
 - 2021/02/14: [Is Graph Bipartite](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3639/)
+- 2021/02/16: [The K Weakest Rows in a Matrix](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3641/)
+- 2021/02/16: [Kill Process](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3640/)
