@@ -37,3 +37,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/17: [Letter Case Permutation](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3642/)
 - 2021/02/18: [Container With Most Water](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3643/)
 - 2021/02/18: [Arithmetic Slices](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3644/)
+- 2021/02/20: [Minimum Remove to Make Valid Parentheses](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3645/)
