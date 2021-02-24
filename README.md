@@ -41,3 +41,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/21: [Roman to Integer](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3646/)
 - 2021/02/22: [Broken Calculator](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3647/)
 - 2021/02/23: [Search a 2D Matrix II](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3650/)
+- 2021/02/25: [Score of Parentheses](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3651/)
