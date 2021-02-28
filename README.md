@@ -46,3 +46,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/27: [Validate Stack Sequences](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3653/)
 - 2021/02/28: [Divide Two Integers](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3654/)
 - 2021/02/28: [Find the Celebrity](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3648/)
+- 2021/02/28: [Maximum Frequency Stack](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3655/)
