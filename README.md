@@ -44,3 +44,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/25: [Score of Parentheses](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3651/)
 - 2021/02/26: [Shortest Unsorted Continuous Subarray](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3652/
 - 2021/02/27: [Validate Stack Sequences](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3653/)
+- 2021/02/28: [Divide Two Integers](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3654/)
+- 2021/02/28: [Find the Celebrity](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3648/)
