@@ -49,3 +49,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/02/28: [Maximum Frequency Stack](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3655/)
 - 2021/03/02: [Distribute Candies](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3657/)
 - 2021/03/03: [Set Mismatch](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3658/)
+- 2021/03/03: [Missing Number](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/)
