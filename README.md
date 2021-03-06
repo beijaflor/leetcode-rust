@@ -51,3 +51,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/03/03: [Set Mismatch](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3658/)
 - 2021/03/03: [Missing Number](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/)
 - 2021/03/05: [Intersection of Two Linked Lists](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/)
+- 2021/03/06: [Average of Levels in Binary Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/)
+- 2021/03/06: [Single-Row Keyboard](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3656/)
