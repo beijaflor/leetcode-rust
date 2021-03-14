@@ -57,3 +57,8 @@ https://leetcode.com/beijaflor-jp/
 - 2021/03/07: [Design HashMap](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3663/)
 - 2021/03/10: [Add One Row to Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3666/)
 - 2021/03/11: [Integer to Roman](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3667/)
+- 2021/03/13: [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3669/)
+- 2021/03/14: [Remove Palindromic Subsequences](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3665/)
+- 2021/03/14: [Coin Change](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3668/)
+- 2021/03/14: [Binary Trees With Factors](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3670/)
+- 2021/03/14: [Strobogrammatic Number](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3664/)
