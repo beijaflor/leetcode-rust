@@ -68,3 +68,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/03/17: [Generate Random Point in a Circle](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3675/)
 - 2021/03/19: [Wiggle Subsequence](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3676/)
 - 2021/03/20: [Keys and Rooms](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3677/)
+- 2021/03/21: [Construct Binary Tree from String](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3672/)
+- 2021/03/21: [Design Underground System](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3678/)
