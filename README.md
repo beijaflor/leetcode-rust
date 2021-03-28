@@ -76,3 +76,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/03/25: [Advantage Shuffle](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3683/)
 - 2021/03/25: [Find Smallest Common Element in All Rows](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3680/)
 - 2021/03/26: [Pacific Atlantic Water Flow](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3684/)
+- 2021/03/27: [Word Subsets](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3685/)
+- 2021/03/28: [Palindromic Substrings](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3686/)
