@@ -81,3 +81,7 @@ https://leetcode.com/beijaflor-jp/
 - 2021/03/28: [Reconstruct Original Digits from English](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3687/)
 - 2021/03/30: [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3689/)
 - 2021/03/31: [Russian Doll Envelopes](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3690/)
+- 2021/04/01: [Stamping The Sequence](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3691/)
+- 2021/04/01: [Parallel Courses](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3688/)
+- 2021/04/01: [Largest Unique Number](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3692/)
+- 2021/04/01: [Palindrome Linked List](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/)
