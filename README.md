@@ -86,3 +86,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/01: [Largest Unique Number](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3692/)
 - 2021/04/01: [Palindrome Linked List](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/)
 - 2021/04/03: [Ones and Zeroes](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3694/)
+- 2021/04/04: [Longest Valid Parentheses](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3695/)
