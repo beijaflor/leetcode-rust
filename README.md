@@ -94,3 +94,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/09: [Letter Combinations of a Phone Number](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3701/)
 - 2021/04/10: [Verifying an Alien Dictionary](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3702/)
 - 2021/04/10: [Inorder Successor in BST](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3700/)
+- 2021/04/11: [Longest Increasing Path in a Matrix](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/)
