@@ -96,3 +96,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/10: [Inorder Successor in BST](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3700/)
 - 2021/04/11: [Longest Increasing Path in a Matrix](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/)
 - 2021/04/12: [Deepest Leaves Sum](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/)
+- 2021/04/12: [Beautiful Arrangement II](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3705/)
