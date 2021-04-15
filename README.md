@@ -98,3 +98,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/12: [Deepest Leaves Sum](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/)
 - 2021/04/12: [Beautiful Arrangement II](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3705/)
 - 2021/04/13: [Flatten Nested List Iterator](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3706/)
+- 2021/04/15: [Partition List](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3707/)
