@@ -109,3 +109,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/22: [Triangle](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3715/)
 - 2021/04/23: [Brick Wall](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3717/)
 - 2021/04/23: [Missing Number In Arithmetic Progression](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3716/)
+- 2021/04/24: [Count Binary Substrings](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3718/)
