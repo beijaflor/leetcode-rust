@@ -112,3 +112,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/24: [Count Binary Substrings](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3718/)
 - 2021/04/24: [Critical Connections in a Network](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3719/)
 - 2021/04/26: [Rotate Image](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3720/)
+- 2021/04/28: [Submission Detail](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3722/)
+- 2021/04/29: [Unique Paths II](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3723/)
