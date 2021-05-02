@@ -117,3 +117,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/29: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3725/)
 - 2021/04/30: [Meeting Scheduler](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3724/)
 - 2021/04/30: [Furthest Building You Can Reach](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3721/)
+- 2021/04/30: [Powerful Integers](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3726/)
+- 2021/05/02: [Prefix and Suffix Search](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3728/)
+- 2021/05/02: [Number of Connected Components in an Undirected Graph](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3727/)
