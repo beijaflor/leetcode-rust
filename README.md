@@ -120,3 +120,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/04/30: [Powerful Integers](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3726/)
 - 2021/05/02: [Prefix and Suffix Search](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3728/)
 - 2021/05/02: [Number of Connected Components in an Undirected Graph](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3727/)
+- 2021/05/03: [Course Schedule III](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3729/)
+- 2021/05/04: [Running Sum of 1d Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3730/)
