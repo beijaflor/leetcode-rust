@@ -123,3 +123,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/03: [Course Schedule III](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3729/)
 - 2021/05/04: [Running Sum of 1d Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3730/)
 - 2021/05/05: [Non-decreasing Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3731/)
+- 2021/05/06: [Jump Game II](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3732/)
+- 2021/05/07: [Convert Sorted List to Binary Search Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3733/)
