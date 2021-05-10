@@ -128,3 +128,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/07: [Delete Operation for Two Strings](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3734/)
 - 2021/05/08: [Super Palindromes](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3736/)
 - 2021/05/08: [Put Boxes Into the Warehouse I](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3735/)
+- 2021/05/10: [Construct Target Array With Multiple Sums](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3737/)
