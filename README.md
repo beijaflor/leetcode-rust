@@ -133,3 +133,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/12: [Maximum Points You Can Obtain from Cards](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3739/)
 - 2021/05/12: [Range Sum Query 2D - Immutable](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3740/)
 - 2021/05/14: [Ambiguous Coordinates](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3741/)
+- 2021/05/15: [Flatten Binary Tree to Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3742/)
