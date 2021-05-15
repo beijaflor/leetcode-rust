@@ -134,3 +134,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/12: [Range Sum Query 2D - Immutable](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3740/)
 - 2021/05/14: [Ambiguous Coordinates](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3741/)
 - 2021/05/15: [Flatten Binary Tree to Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3742/)
+- 2021/05/15: [Valid Number](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)
