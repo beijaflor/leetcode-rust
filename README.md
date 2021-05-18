@@ -137,3 +137,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/15: [Valid Number](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)
 - 2021/05/16: [Minimum Knight Moves](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3743/)
 - 2021/05/17: [Binary Tree Cameras](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3745/)
+- 2021/05/18: [Longest String Chain](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3746/)
