@@ -143,3 +143,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/21: [Binary Tree Level Order Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3749/)
 - 2021/05/21: [Find and Replace Pattern](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/)
 - 2021/05/23: [N-Queens](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3752/)
+- 2021/05/23: [Design Tic-Tac-Toe](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3751/)
