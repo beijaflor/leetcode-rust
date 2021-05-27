@@ -148,3 +148,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/25: [To Lower Case](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3754/)
 - 2021/05/25: [Evaluate Reverse Polish Notation](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3755/)
 - 2021/05/26: [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3756/)
+- 2021/05/27: [Maximum Product of Word Lengths](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3757/)
