@@ -152,3 +152,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/28: [Maximum Erasure Value](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3758/)
 - 2021/05/30: [N-Queens II](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3760/)
 - 2021/05/30: [Minimum Cost to Connect Sticks](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3759/)
+- 2021/05/30: [Maximum Gap](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3761/)
