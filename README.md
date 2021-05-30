@@ -149,3 +149,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/25: [Evaluate Reverse Polish Notation](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3755/)
 - 2021/05/26: [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3756/)
 - 2021/05/27: [Maximum Product of Word Lengths](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3757/)
+- 2021/05/28: [Maximum Erasure Value](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3758/)
+- 2021/05/30: [N-Queens II](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3760/)
+- 2021/05/30: [Minimum Cost to Connect Sticks](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3759/)
