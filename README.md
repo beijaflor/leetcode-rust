@@ -154,3 +154,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/05/30: [Minimum Cost to Connect Sticks](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3759/)
 - 2021/05/30: [Maximum Gap](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3761/)
 - 2021/05/31: [Search Suggestions System](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3762/)
+- 2021/06/02: [Max Area of Island](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3764/)
