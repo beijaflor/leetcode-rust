@@ -157,3 +157,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/02: [Max Area of Island](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3764/)
 - 2021/06/02: [Paint House](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3763/)
 - 2021/06/02: [Interleaving String](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3765/)
+- 2021/06/03: [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3766/)
