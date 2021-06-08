@@ -162,3 +162,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/06: [Maximum Performance of a Team](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3768/)
 - 2021/06/06: [Longest Consecutive Sequence](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3769/)
 - 2021/06/07: [Min Cost Climbing Stairs](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3770/)
+- 2021/06/09: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3772/)
