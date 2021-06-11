@@ -165,3 +165,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/09: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3772/)
 - 2021/06/10: [Jump Game VI](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3773/)
 - 2021/06/10: [The Maze II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3771/)
+- 2021/06/10: [My Calendar I](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3774/)
+- 2021/06/12: [Stone Game VII](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3775/)
