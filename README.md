@@ -167,3 +167,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/10: [The Maze II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3771/)
 - 2021/06/10: [My Calendar I](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3774/)
 - 2021/06/12: [Stone Game VII](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3775/)
+- 2021/06/12: [Minimum Number of Refueling Stops](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3776/)
+- 2021/06/13: [Palindrome Pairs](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3777/)
+- 2021/06/14: [Maximum Units on a Truck](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3778/)
