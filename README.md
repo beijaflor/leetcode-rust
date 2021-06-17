@@ -171,3 +171,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/13: [Palindrome Pairs](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3777/)
 - 2021/06/14: [Maximum Units on a Truck](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/604/week-2-june-8th-june-14th/3778/)
 - 2021/06/16: [Matchsticks to Square](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3780/)
+- 2021/06/16: [Generate Parentheses](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3781/)
+- 2021/06/17: [Number of Subarrays with Bounded Maximum](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3782/)
+- 2021/06/17: [Shortest Distance to Target Color](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3779/)
