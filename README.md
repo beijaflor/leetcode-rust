@@ -176,3 +176,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/17: [Shortest Distance to Target Color](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3779/)
 - 2021/06/18: [ Range Sum Query - Mutable](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3783/)
 - 2021/06/19: [K Inverse Pairs Array](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3784/)
+- 2021/06/20: [Swim in Rising Water](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/605/week-3-june-15th-june-21st/3785/)
