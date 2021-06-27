@@ -182,3 +182,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/24: [Reverse Linked List II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3789/)
 - 2021/06/25: [Out of Boundary Paths](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3790/)
 - 2021/06/25: [All Paths from Source Lead to Destination](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3787/)
+- 2021/06/26: [Redundant Connection](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3791/)
+- 2021/06/27: [Count of Smaller Numbers After Self](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3792/)
