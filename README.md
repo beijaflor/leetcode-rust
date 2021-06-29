@@ -186,3 +186,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/27: [Count of Smaller Numbers After Self](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3792/)
 - 2021/06/28: [Candy](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3793/)
 - 2021/06/28: [Remove All Adjacent Duplicates In String](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3794/)
+- 2021/06/29: [Max Consecutive Ones III](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3796/)
+- 2021/06/29: [Armstrong Number](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3795/)
