@@ -189,3 +189,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/29: [Max Consecutive Ones III](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3796/)
 - 2021/06/29: [Armstrong Number](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3795/)
 - 2021/06/30: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3797/)
+- 2021/07/01: [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/)
