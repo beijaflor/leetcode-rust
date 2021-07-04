@@ -191,3 +191,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/06/30: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/607/week-5-june-29th-june-30th/3797/)
 - 2021/07/01: [Gray Code](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/)
 - 2021/07/02: [Find K Closest Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3800/)
+- 2021/07/04: [Max Sum of Rectangle No Larger Than K](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3801/)
+- 2021/07/04: [Find Leaves of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3798/)
