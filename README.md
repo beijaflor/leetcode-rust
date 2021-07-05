@@ -193,3 +193,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/02: [Find K Closest Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3800/)
 - 2021/07/04: [Max Sum of Rectangle No Larger Than K](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3801/)
 - 2021/07/04: [Find Leaves of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3798/)
+- 2021/07/04: [Count Vowels Permutation](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3802/)
+- 2021/07/05: [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/)
