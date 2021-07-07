@@ -196,3 +196,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/04: [Count Vowels Permutation](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3802/)
 - 2021/07/05: [Reshape the Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/)
 - 2021/07/06: [Reduce Array Size to The Half](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3804/)
+- 2021/07/07: [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3805/)
