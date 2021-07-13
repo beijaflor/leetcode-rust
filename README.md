@@ -203,3 +203,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/10: [Decode Ways II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3809/)
 - 2021/07/11: [Find Median from Data Stream](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3810/)
 - 2021/07/12: [Isomorphic Strings](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3811/)
+- 2021/07/13: [Find Peak Element](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3812/)
