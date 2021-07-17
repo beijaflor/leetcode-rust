@@ -208,3 +208,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/15: [Valid Triangle Number](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3815/)
 - 2021/07/16: [4Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3816/)
 - 2021/07/16: [Range Addition](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3814/)
+- 2021/07/17: [Three Equal Parts](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3817/)
