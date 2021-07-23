@@ -215,3 +215,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/21: [Push Dominoes](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3821/)
 - 2021/07/22: [Partition Array into Disjoint Intervals](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3823/)
 - 2021/07/22: [Alien Dictionary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3822/)
+- 2021/07/23: [Binary Tree Pruning](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3824/)
