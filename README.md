@@ -220,3 +220,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/25: [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)
 - 2021/07/26: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3827/)
 - 2021/07/27: [3Sum Closest](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3828/)
+- 2021/07/28: [Beautiful Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3829/)
