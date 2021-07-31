@@ -221,3 +221,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/26: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3827/)
 - 2021/07/27: [3Sum Closest](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3828/)
 - 2021/07/28: [Beautiful Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3829/)
+- 2021/07/30: [01 Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)
+- 2021/07/31: [Map Sum Pairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3832/)
