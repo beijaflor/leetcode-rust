@@ -226,3 +226,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/31: [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3830/)
 - 2021/07/31: [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)
 - 2021/08/01: [Making A Large Island](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3835/)
+- 2021/08/02: [Two Sum](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3836/)
+- 2021/08/02: [Optimize Water Distribution in a Village](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3834/)
