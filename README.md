@@ -223,3 +223,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/07/28: [Beautiful Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3829/)
 - 2021/07/30: [01 Matrix](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)
 - 2021/07/31: [Map Sum Pairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3832/)
+- 2021/07/31: [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3830/)
+- 2021/07/31: [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)
+- 2021/08/01: [Making A Large Island](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3835/)
