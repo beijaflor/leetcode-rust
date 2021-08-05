@@ -228,3 +228,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/01: [Making A Large Island](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3835/)
 - 2021/08/02: [Two Sum](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3836/)
 - 2021/08/02: [Optimize Water Distribution in a Village](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3834/)
+- 2021/08/03: [Subsets II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3837/)
+- 2021/08/04: [Path Sum II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3838/)
+- 2021/08/05: [Stone Game](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3870/)
