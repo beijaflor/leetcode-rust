@@ -236,3 +236,7 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/09: [Add Strings](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3875/)
 - 2021/08/09: [Paint Fence](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3873/)
 - 2021/08/10: [Flip String to Monotone Increasing](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3876/)
+- 2021/08/11: [Array of Doubled Pairs](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3877/)
+- 2021/08/12: [Group Anagrams](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3887/)
+- 2021/08/13: [Set Matrix Zeroes](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3888/)
+- 2021/08/14: [Remove Boxes](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3889/)
