@@ -242,3 +242,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/14: [Remove Boxes](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3889/)
 - 2021/08/15: [Minimum Window Substring](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3891/)
 - 2021/08/15: [Paint House II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3890/)
+- 2021/08/16: [Range Sum Query - Immutable](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3892/)
