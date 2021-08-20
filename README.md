@@ -246,3 +246,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/17: [Count Good Nodes in Binary Tree](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3899/)
 - 2021/08/18: [Decode Ways](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3902/)
 - 2021/08/19: [Maximum Product of Splitted Binary Tree](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3903/)
+- 2021/08/20: [Valid Sudoku](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3904/)
