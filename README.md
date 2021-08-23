@@ -247,3 +247,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/18: [Decode Ways](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3902/)
 - 2021/08/19: [Maximum Product of Splitted Binary Tree](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3903/)
 - 2021/08/20: [Valid Sudoku](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3904/)
+- 2021/08/22: [Sudoku Solver](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3905/)
+- 2021/08/22: [Rectangle Area II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3907/)
+- 2021/08/23: [Graph Valid Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3906/)
