@@ -250,4 +250,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/22: [Sudoku Solver](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/615/week-3-august-15th-august-21st/3905/)
 - 2021/08/22: [Rectangle Area II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3907/)
 - 2021/08/23: [Graph Valid Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3906/)
-- 2021/08/23] [Two Sum IV - Input is a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3908/)
+- 2021/08/23: [Two Sum IV - Input is a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3908/)
+- 2021/08/24: [Complex Number Multiplication](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3917/)
