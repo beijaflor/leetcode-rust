@@ -253,3 +253,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/23: [Two Sum IV - Input is a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3908/)
 - 2021/08/24: [Complex Number Multiplication](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3917/)
 - 2021/08/25: [Sum of Square Numbers](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3918/)
+- 2021/08/26: [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3920/)
