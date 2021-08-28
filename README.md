@@ -255,3 +255,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/25: [Sum of Square Numbers](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3918/)
 - 2021/08/26: [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3920/)
 - 2021/08/27: [Longest Uncommon Subsequence II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3921/)
+- 2021/08/28: [Maximum Profit in Job Scheduling](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3950/)
