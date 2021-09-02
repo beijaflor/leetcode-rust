@@ -261,3 +261,5 @@ https://leetcode.com/beijaflor-jp/
 - 2021/08/31: [Range Addition II](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3957/)
 - 2021/08/31: [Find Minimum in Rotated Sorted Array](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3958/)
 - 2021/09/01: [Array Nesting](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3960/)
+- 2021/09/02: [Unique Binary Search Trees II](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3961/)
+- 2021/09/02: [Maximum Average Subtree](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3959/)
