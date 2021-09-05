@@ -264,3 +264,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/09/02: [Unique Binary Search Trees II](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3961/)
 - 2021/09/02: [Maximum Average Subtree](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3959/)
 - 2021/09/03: [Erect the Fence](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3962/)
+- 2021/09/04: [Sum of Distances in Tree](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3963/)
