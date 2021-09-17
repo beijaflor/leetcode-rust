@@ -278,3 +278,4 @@ https://leetcode.com/beijaflor-jp/
 - 2021/09/15: [Longest Turbulent Subarray](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3976/)
 - 2021/09/16: [Minimize Max Distance to Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3975/)
 - 2021/09/16: [Spiral Matrix](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3977/)
+- 2021/09/17: [Intersection of Two Arrays II](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3978/)
