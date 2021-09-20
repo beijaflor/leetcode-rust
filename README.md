@@ -279,3 +279,6 @@ https://leetcode.com/beijaflor-jp/
 - 2021/09/16: [Minimize Max Distance to Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3975/)
 - 2021/09/16: [Spiral Matrix](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3977/)
 - 2021/09/17: [Intersection of Two Arrays II](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3978/)
+- 2021/09/18: [Expression Add Operators](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3979/)
+- 2021/09/20: [Distinct Subsequences](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3980/)
+- 2021/09/20: [Find Winner on a Tic Tac Toe Game](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3981/)
